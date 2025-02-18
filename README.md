@@ -133,5 +133,16 @@ The Frontend will run at http://localhost:3000
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![Screenshot_794](https://github.com/user-attachments/assets/c3c129c5-46bc-4259-b5f9-72b3c1cf18ab)
+
+![Screenshot_795](https://github.com/user-attachments/assets/cd781688-1464-44be-b1be-efc1a421b1c7)
+
+
+![Screenshot_791](https://github.com/user-attachments/assets/ef31a7d0-6cd4-4658-93a3-fb144d8f2d6c)
+
+![Screenshot_792](https://github.com/user-attachments/assets/e11141e8-50c7-4897-a4db-852135b72146)
+
+![Screenshot_793](https://github.com/user-attachments/assets/f8d38131-ab86-48af-8ad1-822da01106ee)
+
 
